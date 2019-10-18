@@ -8,7 +8,7 @@ In preparation of our data, we performed a **labelling task** in which computer 
 - **No**: for posts not related to hacker activity or are out of the scope of our research  (Data  breach,  copyrighted  software  cracked,  stolen  accounts  and credit card accounts).  
 - **Undecided**: for posts that the labeller does not have enough information or confidence to mark as Yes or No
 
-we have used these dataset were used to experiment machine learning models aimed to detect hacker communication regarding software vulnerabilities. More on that can be read in the paper below:
+These datasets were used to perform experiments with machine learning models aimed to detect hacker communication regarding software vulnerabilities. More on that can be read in the paper below:
 
 1. [Eavesdropping hackers: Detecting software vulnerability communication on social media using text mining](http://www.thinkmind.org/download.php?articleid=cyber_2019_3_30_80058)
 
