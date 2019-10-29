@@ -40,6 +40,14 @@ These datasets were used to perform experiments with machine learning models aim
 
 If you have used the above resource, please acknowledge the authors by citing:
 
-**Queiroz, A.L., Mckeever, S., Keegan, B.: Eavesdropping hackers: Detecting software vulnerability communication on  social  media using text  mining. In: TheFourth International Conference on Cyber Technologies and Cyber-Systems. pp. 41-48 (2019)**
+**Queiroz, A.L., Mckeever, S., Keegan, B.: Eavesdropping hackers: Detecting software vulnerability communication on  social  media using text  mining. In: The Fourth International Conference on Cyber Technologies and Cyber-Systems. pp. 41-48 (2019)**
 
-
+    @inproceedings{queiroz_eavesdropping,
+	title = {Eavesdropping hackers: Detecting software vulnerability communication on  social media using text mining},
+	isbn =  {978-1-61208-743-6},
+	booktitle = {The Fourth International Conference on Cyber-Technologies and Cyber-Systems},
+	author = {Queiroz, Andrei Lima and Mckeever, Susan and Keegan, Brian},
+	year = {2019},
+	keywords = {cyber security threat intelligence; software vulnerability; machine learning; text mining; social media, hacker communication},
+	pages = {41--48}
+	}
