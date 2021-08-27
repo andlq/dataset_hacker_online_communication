@@ -54,7 +54,7 @@ If you have used the above resource, please acknowledge the authors by citing:
     	pages = {41--48}
 	}
 
-**Queiroz, A. L., Mckeever, S., and Keegan, B. (2019). Detecting hacker threats: Performance of Word and Sentence Embedding models in identifying hacker communications**
+**Queiroz, A. L., Mckeever, S., and Keegan, B.: Detecting hacker threats: Performance of Word and Sentence Embedding models in identifying hacker communications. In: The 27th AIAI Irish Conference on Artificial Intelligence and Cognitive Science. Volume 2563. pp. 116–127 (2019)**
 
 [Click here](http://ceur-ws.org/Vol-2563/aics_13.pdf)
 
