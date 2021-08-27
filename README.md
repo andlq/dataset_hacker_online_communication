@@ -42,12 +42,46 @@ If you have used the above resource, please acknowledge the authors by citing:
 
 **Queiroz, A.L., Mckeever, S., Keegan, B.: Eavesdropping hackers: Detecting software vulnerability communication on  social  media using text  mining. In: The Fourth International Conference on Cyber Technologies and Cyber-Systems. pp. 41-48 (2019)**
 
+[Click here](http://www.thinkmind.org/articles/cyber_2019_3_30_80058.pdf)
+
     @inproceedings{queiroz_eavesdropping,
-	title = {Eavesdropping hackers: Detecting software vulnerability communication on  social media using text mining},
-	isbn =  {978-1-61208-743-6},
-	booktitle = {The Fourth International Conference on Cyber-Technologies and Cyber-Systems},
-	author = {Queiroz, Andrei Lima and Mckeever, Susan and Keegan, Brian},
-	year = {2019},
-	keywords = {cyber security threat intelligence; software vulnerability; machine learning; text mining; social media, hacker communication},
-	pages = {41--48}
+    	title = {Eavesdropping hackers: Detecting software vulnerability communication on  social media using text mining},
+    	isbn =  {978-1-61208-743-6},
+    	booktitle = {The Fourth International Conference on Cyber-Technologies and Cyber-Systems},
+    	author = {Queiroz, Andrei Lima and Mckeever, Susan and Keegan, Brian},
+    	year = {2019},
+    	keywords = {cyber security threat intelligence; software vulnerability; machine learning; text mining; social media, hacker communication},
+    	pages = {41--48}
 	}
+
+**Queiroz, A. L., Mckeever, S., and Keegan, B. (2019). Detecting hacker threats: Performance of Word and Sentence Embedding models in identifying hacker communications**
+
+[Click here](http://ceur-ws.org/Vol-2563/aics_13.pdf)
+
+    @inproceedings{queiroz_communication,
+      title={Detecting Hacker Threats: Performance of Word and Sentence Embedding Models in Identifying Hacker Communications},
+      author={Queiroz, Andrei Lima and Mckeever, Susan and Keegan, Brian},
+      booktitle = {The 27th AIAI Irish Conference on Artificial Intelligence and Cognitive Science},
+      year={2019},
+      issn =  {1613-0073},
+      volume = {2563},
+      address = {Galway, Ireland},
+      pages = {116--127}
+    }
+
+
+**Queiroz, A. L., Keegan, B., and Mckeever, S.: Moving Targets: Addressing Concept Drift in Supervised Models for Hacker Communication Detection. In: International Conference on Cyber Security and Protection of Digital Services (Cyber Security). pp. 1–7 (2020)**
+
+[Click here](https://ieeexplore.ieee.org/document/9138894)
+
+    @inproceedings{queiroz_conceptdrift,  
+        author={Queiroz, Andrei Lima and Keegan, Brian and Mckeever, Susan},  
+        title={Moving Targets: Addressing Concept Drift in Supervised Models for Hacker Communication Detection},   
+        booktitle={2020 International Conference on Cyber Security and Protection of Digital Services (Cyber Security)},   
+        year={2020},  
+        pages={1-7},  
+        doi={10.1109/CyberSecurity49315.2020.9138894}
+    }
+    
+
+[Click here to see my Google Scholar](https://scholar.google.com/citations?user=BcX-W_4AAAAJ)
